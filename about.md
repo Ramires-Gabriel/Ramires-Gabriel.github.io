@@ -1,15 +1,19 @@
 ---
 layout: page
-title: About
+title: Sobre 
 permalink: /about/
 ---
 
-Some information about you!
+Blog criado por Gabriel Ramires com base em jekyll-now
 
-### More Information
+https://github.com/barryclark/jekyll-now/tree/master
 
-A place to include any other types of information that you'd like to include about yourself.
+### Participantes
 
-### Contact me
+Ana Luisa Tsunematsu Ferreira
+Gabriel Ramires
+Victor Hugo Antonio Couto
 
-[email@domain.com](mailto:email@domain.com)
+### Contato
+
+[email@domain.com](mailto:ramires8box@gmail.com)
