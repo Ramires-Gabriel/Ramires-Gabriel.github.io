@@ -10,10 +10,10 @@ https://github.com/barryclark/jekyll-now/tree/master
 
 ### Participantes
 
-Ana Luisa Tsunematsu Ferreira
-Gabriel Ramires
+Ana Luisa Tsunematsu Ferreira\
+Gabriel Ramires\
 Victor Hugo Antonio Couto
 
 ### Contato
 
-[email@domain.com](mailto:ramires8box@gmail.com)
+[ramires8box@gmail.com](mailto:ramires8box@gmail.com)
