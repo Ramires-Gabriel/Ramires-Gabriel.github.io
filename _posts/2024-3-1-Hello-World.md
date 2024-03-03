@@ -7,7 +7,7 @@ Nessa semana, os integrantes do grupo desenvolveram textos respondendo às pergu
 
 # Gabriel Ramires
 
-Com base em conhecimentos prévios e rápidas pesquisas referentes ao assunto, o autor cria uma conjectura do tema, sendo ela a expectativa de ver linguagens, aplicações e teorias que remetem aos verbetes Computação Visual, como as ferramentas Blender (software para criação e edição de modelos 3D), Photoshop (software muito utilizado para a edição de imagens) e até mesmo o Source Filmmaker(software baseado na Source engine da empresa Valve, muito usado para realizar animações independentes de jogos como Team Fortress 2 e Half-Life 2). Tendo isso em mente, o autor espera que, nesta disciplina, sejam estudados temas como teorias sobre Computação Visual conceitos práticos e suas aplicações, bem como os mecanismos internos que as compõem.
+Com base em conhecimentos prévios e rápidas pesquisas referentes ao assunto, o autor cria uma conjectura do tema, sendo ela a expectativa de ver linguagens, aplicações e teorias que remetem aos verbetes Computação Visual, como as ferramentas Blender (software para criação e edição de modelos 3D), Photoshop (software muito utilizado para a edição de imagens) e até mesmo o Source Filmmaker(software baseado na Source engine da empresa Valve, muito usado para realizar animações independentes de jogos como Team Fortress 2 e Half-Life 2). Tendo isso em mente, o autor espera que, nesta disciplina, sejam estudados temas como teorias sobre Computação Visual, conceitos práticos e suas aplicações, bem como os mecanismos internos que as compõem.
 
 # Victor Hugo 
 
